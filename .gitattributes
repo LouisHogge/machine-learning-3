@@ -1,0 +1,2 @@
+*.tex linguist-detectable=false
+code/train.csv filter=lfs diff=lfs merge=lfs -text
